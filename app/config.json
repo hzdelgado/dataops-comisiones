@@ -14,11 +14,11 @@
     "sender_email": "Python DataOps <pydataops@example.com>"
   },
   "paths": {
-    "csv":  "ComisionEmpleados_V1_202510.csv",
+    "csv":  "ComisionEmpleados_V1_202605.csv",
     "excel": "ComisionesCalculadas.xlsx"
   },
   "report": {
-    "to": "usuario.dmc@gmail.com",
+    "to": "hillarizorrilla@gmail.com",
     "subject": "Hillari Zorrilla - Comisiones Calculadas",
     "body_html": "Estimado(a), <br>Adjunto encontrarás el archivo con las comisiones calculadas.<br>Saludos."
   }
